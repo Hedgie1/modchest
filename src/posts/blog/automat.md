@@ -1,7 +1,7 @@
 ---
-title: 'Samuel horsky sa zasekol v automate'
+title: 'Samo sa zasekol v automate'
 description: 'Sialeny pribeh'
 date: '2022-03-08'
 ---
 
-Preboha on proste siel a v automate zostal.
+Samo isiel a zasekol sa v automate. Koniec pribehu
